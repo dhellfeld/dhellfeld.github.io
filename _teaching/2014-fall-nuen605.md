@@ -1,5 +1,5 @@
 ---
-title: "NEUN 604 - Radiation Detection and Nuclear Instrumentation"
+title: "NEUN 604 - Radiation Detection and Nuclear Materials Measurement"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2014-fall-nuen605

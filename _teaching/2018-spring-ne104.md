@@ -1,5 +1,5 @@
 ---
-title: "NE 104 - Radiation Detection and Nuclear Instrumentation"
+title: "NE 104 - Radiation Detection and Nuclear Instrumentation Laboratory"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2018-spring-ne104
