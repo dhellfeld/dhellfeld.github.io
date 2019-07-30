@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Daniel Hellfeld, Ph.D."
   avatar           : "profile.jpg"
-  bio              : "Nuclear science"
-  location         : "Berkeley, CA"
-  employer         : "Lawrence Berkeley National Laboratory"
+  bio              : "Senior Scientific Engineering Associate"
+  location         : "Lawrence Berkeley National Laboratory, Berkeley, CA"
+  employer         :
   pubmed           :
   googlescholar    :
   email            : "dhellfeld@lbl.gov"
