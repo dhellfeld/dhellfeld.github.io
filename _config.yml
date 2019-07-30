@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Daniel Hellfeld, Ph.D."
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Nuclear science"
   location         : "Berkeley, CA"
   employer         : "Lawrence Berkeley National Laboratory"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/dhellfeld"
+  linkedin         : "dhellfeld"
   orcid            :
   pinterest        :
   soundcloud       :
