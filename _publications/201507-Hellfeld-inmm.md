@@ -6,5 +6,5 @@ excerpt: 'This paper is about...'
 date: 2015-07-01
 venue: 'INMM Annual Meeting Proceedings'
 paperurl: 'https://www.inmm.org/INMM-Resources/Proceedings-Presentations/Annual-Meeting-Proceedings'
-citation: 'D. Hellfeld, A. Bernstein, S. Dazeley, and C. Marianno, &quot;Nuclear Reactor Antineutrino Directionality via Elastic Electron Scattering in a Gd-Doped Water Cherenkov Detector&quot;, <i>in Proc. INMM Annual Meeting</i>, Indian Wells, CA, Jul. 2015.'
+citation: '<b>D. Hellfeld</b>, A. Bernstein, S. Dazeley, and C. Marianno, &quot;Nuclear Reactor Antineutrino Directionality via Elastic Electron Scattering in a Gd-Doped Water Cherenkov Detector&quot;, <i>in Proc. INMM Annual Meeting</i>, Indian Wells, CA, Jul. 2015.'
 ---

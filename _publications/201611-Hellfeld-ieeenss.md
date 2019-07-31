@@ -6,5 +6,5 @@ excerpt: 'This paper is about...'
 date: 2016-11-01
 venue: 'IEEE NSS/MIC Proceedings'
 paperurl: 'https://ieeexplore.ieee.org/document/8069853'
-citation: 'D. Hellfeld, P. Barton, D. Gunter, L. Mihailescu, and K. Vetter, &quot;Optimization of a Spherical Active Coded Mask Imager&quot;, <i>in Proc. IEEE NSS-MIC</i>, Strasbourg, France, Nov. 2016.'
+citation: '<b>D. Hellfeld</b>, P. Barton, D. Gunter, L. Mihailescu, and K. Vetter, &quot;Optimization of a Spherical Active Coded Mask Imager&quot;, <i>in Proc. IEEE NSS-MIC</i>, Strasbourg, France, Nov. 2016.'
 ---
