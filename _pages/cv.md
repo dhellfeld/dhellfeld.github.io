@@ -22,17 +22,17 @@ Education
 
 Research experience
 ======
-- **Senior Scientific Engineering Associate** <br> Applied Nuclear Physics Group &#124; Lawrence Berkeley National Laboratory &#124; Berkeley, CA &#124; Aug 2019 - Present
+- **Senior Scientific Engineering Associate** &#124; Aug 2019 - Present <br> Applied Nuclear Physics Group &#124; Lawrence Berkeley National Laboratory &#124; Berkeley, CA
     - Real-time quantitative 3D gamma-ray imaging and scene data fusion.
-- **Research Fellow** &#124; Nuclear Science and Security Consortium &#124; UC Berkeley &#124; Berkeley, CA &#124; Nov 2014 - Jul 2019
+- **Research Fellow** &#124; Nov 2014 - Jul 2019 <br> Nuclear Science and Security Consortium &#124; UC Berkeley &#124; Berkeley, CA
     - Modeling and imaging algorithm development for free-moving hand-held and UAS-mounted gamma-ray imagers (proximity, coded aperture, Compton).
     - Experimental demonstration of omnidirectional 3D active coded mask imaging in real-time.
     - Fusion of contextual sensors (e.g., LiDAR, RGB camera, IMU) and computer vision techniques (e.g., SLAM) with gamma-ray image reconstruction.
-- **Physics Intern** &#124; Rare Event Detection Group &#124; Lawrence Livermore National Laboratory &#124; Livermore, CA &#124; Jun - Aug 2015/2014
+- **Physics Intern** &#124; Jun - Aug 2015/2014 <br> Rare Event Detection Group &#124; Lawrence Livermore National Laboratory &#124; Livermore, CA
     - Monte Carlo simulations and data analysis for a water Cherenkov antineutrino detector.
     - Study on the feasibility of remote clandestine nuclear reactor directionality with antineutrino-electron elastic scattering.
     - Investigation of potential electron scattering background sources in water and the impact of overburden, fiducial volume, and radon contamination on directionality.
-- **Graduate Research Assistant** &#124; Department of Nuclear Engineering &#124; Texas A&M University &#124; College Station, TX &#124; Sep 2013 - Nov 2014
+- **Graduate Research Assistant** &#124; Sep 2013 - Nov 2014 <br> Department of Nuclear Engineering &#124; Texas A&M University &#124; College Station, TX
     - Design, construction and characterization of a vehicle-mounted scintillator detector array for wide area radiological search in urban environments.
     - Review on the use of solid-state photodiodes and photomultipliers in improving scintillation detection systems.
 
