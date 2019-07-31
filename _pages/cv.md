@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-- **Doctor of Philosophy (Ph.D)** &#124; Nuclear Engineering &#124; UC Berkeley &#124; 2019
+- **Doctor of Philosophy (Ph.D.)** &#124; Nuclear Engineering &#124; UC Berkeley &#124; 2019
     - Thesis: *Free-moving Omnidirectional 3D Gamma-ray Imaging and Localization*
     - Advisor: Prof. Kai Vetter
 - **Master of Science (M.S.)** &#124; Nuclear Engineering &#124; Texas A&M University &#124; 2015
@@ -22,7 +22,7 @@ Education
 
 Research experience
 ======
-- **Senior Scientific Engineering Associate** &#124; Applied Nuclear Physics Group &#124; Lawrence Berkeley National Laboratory &#124; Berkeley, CA &#124; Aug 2019 - Present
+- **Senior Scientific Engineering Associate** <br> Applied Nuclear Physics Group &#124; Lawrence Berkeley National Laboratory &#124; Berkeley, CA &#124; Aug 2019 - Present
     - Real-time quantitative 3D gamma-ray imaging and scene data fusion.
 - **Research Fellow** &#124; Nuclear Science and Security Consortium &#124; UC Berkeley &#124; Berkeley, CA &#124; Nov 2014 - Jul 2019
     - Modeling and imaging algorithm development for free-moving hand-held and UAS-mounted gamma-ray imagers (proximity, coded aperture, Compton).
