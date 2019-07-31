@@ -20,7 +20,7 @@ Education
 - **Bachelor of Science (B.S.)** &#124; Physics &#124; UC Santa Barbara &#124; 2013
 
 
-Work experience
+Research experience
 ======
 - **Senior Scientific Engineering Associate** &#124; Applied Nuclear Physics Group &#124; Lawrence Berkeley National Laboratory &#124; Berkeley, CA &#124; Aug 2019 - Present
     - Real-time quantitative 3D gamma-ray imaging and scene data fusion.

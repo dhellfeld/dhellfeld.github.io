@@ -1,8 +1,8 @@
 ---
 title: "Poster title"
-collection: poster
+collection: posters
 type: "Poster"
-permalink: /poster/XXXX-XX-XX-title
+permalink: /posters/XXXX-XX-XX-title
 venue: "Venue"
 date: 2000-01-01
 location: "City, State"
