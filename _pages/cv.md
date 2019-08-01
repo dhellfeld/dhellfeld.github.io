@@ -9,15 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
+<button name="button" onclick="https://github.com/dhellfeld/CV/raw/master/pdfs/cv.pdf">Download PDF</button>
+
 Education
 ======
-- **Doctor of Philosophy (Ph.D.)** &#124; Nuclear Engineering &#124; UC Berkeley &#124; 2019
+- **Doctor of Philosophy (Ph.D.)** &#124; Nuclear Engineering &#124;  University of California, Berkeley &#124; Jul 2019
     - Thesis: *Free-moving Omnidirectional 3D Gamma-ray Imaging and Localization*
     - Advisor: Prof. Kai Vetter
-- **Master of Science (M.S.)** &#124; Nuclear Engineering &#124; Texas A&M University &#124; 2015
+- **Master of Science (M.S.)** &#124; Nuclear Engineering &#124; Texas A&M University &#124; May 2015
     - Thesis: *Feasibility of Nuclear Reactor Antineutrino Directionality via Elastic Electron Scattering in the WATer CHerenkov Monitor of ANtineutrinos (WATCHMAN)*
     - Advisor: Prof. Craig Marianno
-- **Bachelor of Science (B.S.)** &#124; Physics &#124; UC Santa Barbara &#124; 2013
+- **Bachelor of Science (B.S.)** &#124; Physics &#124; University of California, Santa Barbara &#124; Jun 2013
 
 
 Research experience
