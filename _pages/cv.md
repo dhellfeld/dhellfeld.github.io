@@ -27,6 +27,7 @@ Research experience
 ======
 - **Senior Scientific Engineering Associate** &#124; Aug 2019 - Present <br> Applied Nuclear Physics Group &#124; Lawrence Berkeley National Laboratory &#124; Berkeley, CA
     - Real-time quantitative 3D gamma-ray imaging and scene data fusion.
+    - Real-time object detection and tracking with LiDAR for improved radiological source attribution.
 - **Research Fellow** &#124; Nov 2014 - Jul 2019 <br> Nuclear Science and Security Consortium &#124; UC Berkeley &#124; Berkeley, CA
     - Modeling and imaging algorithm development for free-moving hand-held and UAS-mounted gamma-ray imagers (proximity, coded aperture, Compton).
     - Experimental demonstration of omnidirectional 3D active coded mask imaging in real-time.
