@@ -7,5 +7,3 @@ venue: "UC Berkeley, Department of Nuclear Engineering"
 date: 2018-01-01
 location: "Berkeley, CA"
 ---
-
-This is a description...

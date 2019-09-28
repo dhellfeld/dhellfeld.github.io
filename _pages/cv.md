@@ -27,11 +27,11 @@ Research experience
 ======
 - **Senior Scientific Engineering Associate** &#124; Aug 2019 - Present <br> Applied Nuclear Physics Group &#124; Lawrence Berkeley National Laboratory &#124; Berkeley, CA
     - Real-time quantitative 3D gamma-ray imaging and scene data fusion.
-    - Real-time object detection and tracking with LiDAR for improved radiological source attribution.
+    - 3D object detection and tracking in LiDAR point clouds using sparse convolution networks for improved radiological source detection and attribution.
 - **Research Fellow** &#124; Nov 2014 - Jul 2019 <br> Nuclear Science and Security Consortium &#124; UC Berkeley &#124; Berkeley, CA
     - Modeling and imaging algorithm development for free-moving hand-held and UAS-mounted gamma-ray imagers (proximity, coded aperture, Compton).
     - Experimental demonstration of omnidirectional 3D active coded mask imaging in real-time.
-    - Fusion of contextual sensors (e.g., LiDAR, RGB camera, IMU) and computer vision techniques (e.g., SLAM) with gamma-ray image reconstruction.
+    - Fusion of contextual sensors (e.g., LiDAR, RGB camera, IMU) and computer vision techniques (e.g., SLAM, photogrammetry) with gamma-ray image reconstruction.
 - **Physics Intern** &#124; Jun - Aug 2015/2014 <br> Rare Event Detection Group &#124; Lawrence Livermore National Laboratory &#124; Livermore, CA
     - Monte Carlo simulations and data analysis for a water Cherenkov antineutrino detector.
     - Study on the feasibility of remote clandestine nuclear reactor directionality with antineutrino-electron elastic scattering.
@@ -53,7 +53,7 @@ Skills
 - **Databases**: HDF5, SQL
 - **Documentation**: Doxygen, Sphinx
 - **Markup**: Markdown, XML, HTML
-- **Version Control**: git (hub, lab)
+- **Version Control**: git
 - **Other Software**: LaTeX, MS Office
 
 

@@ -7,5 +7,3 @@ venue: "Texas A&M University, Department of Nuclear Engineering"
 date: 2014-09-01
 location: "College Station, TX"
 ---
-
-This is a description...

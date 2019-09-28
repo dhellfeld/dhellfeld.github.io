@@ -10,4 +10,10 @@ redirect_from:
 
 Fusing radiation detection and imaging methods with computer vision and machine learning for nuclear security and safeguards applications.
 
-More to come.
+<img src="../images/outdoor_colorized_ptcld.png" alt="colorized_point_cloud_1" width="600"/>
+
+<img src="../images/indoor_colorized_ptcld.png" alt="colorized_point_cloud_1" width="600"/>
+
+<img src="../images/apsl.png" alt="additive_point_source_localization" width="500"/>
+
+<img src="../images/ogl.png" alt="opengl_simulation" width="400"/>
