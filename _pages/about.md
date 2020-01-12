@@ -1,18 +1,11 @@
 ---
 permalink: /
-title: "Daniel Hellfeld"
-excerpt: "Daniel Hellfeld"
+title: "Home"
+excerpt: ""
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-Fusing radiation detection and imaging methods with computer vision and machine learning for nuclear security and safeguards applications.
-
-<img src="../images/outdoor_colorized_ptcld.png" alt="colorized_point_cloud_1" width="525"/>
-
-<img src="../images/indoor_colorized_ptcld.png" alt="colorized_point_cloud_1" width="525"/>
-
-<!-- <img src="../images/apsl.png" alt="additive_point_source_localization" width="500"/>
-<img src="../images/ogl.png" alt="opengl_simulation" width="400"/> -->
+Applied research scientist leveraging computer vision and machine learning techniques to solve complex inversion problems. 5+ years experience in developing, testing and deploying software for anomaly detection, image reconstruction and real-time 3D mapping.
