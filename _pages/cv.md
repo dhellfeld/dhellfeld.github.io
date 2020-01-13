@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <!-- <button name="button" onclick="https://github.com/dhellfeld/CV/raw/master/pdfs/cv.pdf">Download PDF</button> -->
-[Download PDF](https://github.com/dhellfeld/CV/raw/master/pdfs/cv.pdf){: .btn}
+[Download CV](https://github.com/dhellfeld/CV/raw/master/pdfs/cv.pdf){: .btn} [Download Resume](https://github.com/dhellfeld/CV/raw/master/pdfs/resume.pdf){: .btn}
 
 Education
 ======
