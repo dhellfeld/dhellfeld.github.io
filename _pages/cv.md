@@ -27,7 +27,7 @@ Research experience
 ======
 - **Senior Scientific Engineering Associate** &#124; Aug 2019 - Present <br> Applied Nuclear Physics Group &#124; Lawrence Berkeley National Laboratory &#124; Berkeley, CA
 	- Real-time quantitative 3D gamma-ray mapping and contextual scene data fusion.
-	- Technical software lead of online and offline image reconstruction algorithms and data pipelines.
+	<!-- - Technical software lead of online and offline image reconstruction algorithms and data pipelines. -->
 	- 3D object detection and tracking in LiDAR point clouds using sparse convolution neural networks for improved radiological source detection and attribution.
 	- Detection and tracking algorithm development for a city-scale network of multi-sensor systems.
 - **Research Fellow** &#124; Nov 2014 - Jul 2019 <br> Nuclear Science and Security Consortium &#124; UC Berkeley &#124; Berkeley, CA
@@ -38,8 +38,7 @@ Research experience
 - **Physics Intern** &#124; Jun - Aug 2015/2014 <br> Rare Event Detection Group &#124; Lawrence Livermore National Laboratory &#124; Livermore, CA
 	- Monte Carlo simulations and statistical data analysis for a proposed antineutrino detector.
 	- Study on the feasibility of remote clandestine nuclear reactor directionality.
-	- Investigation of electron scattering background sources in water and the impact of overburden,
-	fiducial volume, and radon contamination on directionality.
+	- Investigation of electron scattering background sources in water and the impact of overburden, fiducial volume, and radon contamination on directionality.
 
 <!-- - **Graduate Research Assistant** &#124; Sep 2013 - Nov 2014 <br> Department of Nuclear Engineering &#124; Texas A&M University &#124; College Station, TX
     - Design, construction and characterization of a vehicle-mounted scintillator detector array for wide area radiological search in urban environments.
