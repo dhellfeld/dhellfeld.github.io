@@ -72,15 +72,15 @@ Skills
 
 Awards
 ======
-**R&D 100 Award Winner** &#124; R&D World Magazine, WTWH Media &#124; Nov 2019
-**Best Paper Award** &#124; UC Berkeley NE Dept. &#124; Dec 2018
-**Runner-up Student Paper Competition** &#124; IEEE NSS-MIC &#124; Oct 2017
-**Best Oral Presentation** &#124; University Program Review Meeting &#124; Jun 2017
-**Best Poster Award** &#124; INMM Annual Meeting &#124; Jul 2015
-**Nuclear Science and Security Consortium Fellowship** &#124; UC Berkeley &#124; Nov 2014
-**Graduate Enhancement Fellowship** &#124; Texas A&M University &#124; Aug 2013
-**Highest Academic Honor Award** &#124; UC Santa Barbara, Physics Dept. &#124; May 2013
-**Highest Honors** &#124; UC Santa Barbara &#124; May 2013
+- **R&D 100 Award Winner** &#124; R&D World Magazine, WTWH Media &#124; Nov 2019
+- **Best Paper Award** &#124; UC Berkeley NE Dept. &#124; Dec 2018
+- **Runner-up Student Paper Competition** &#124; IEEE NSS-MIC &#124; Oct 2017
+- **Best Oral Presentation** &#124; University Program Review Meeting &#124; Jun 2017
+- **Best Poster Award** &#124; INMM Annual Meeting &#124; Jul 2015
+- **Nuclear Science and Security Consortium Fellowship** &#124; UC Berkeley &#124; Nov 2014
+- **Graduate Enhancement Fellowship** &#124; Texas A&M University &#124; Aug 2013
+- **Highest Academic Honor Award** &#124; UC Santa Barbara, Physics Dept. &#124; May 2013
+- **Highest Honors** &#124; UC Santa Barbara &#124; May 2013
 
 
 Publications
