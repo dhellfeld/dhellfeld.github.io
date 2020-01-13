@@ -10,6 +10,3 @@ citation: '<b>D. Hellfeld</b>, P. Barton, A. Haefner, D. Gunter, L. Mihailescu, 
 image: "/images/outdoor_colorized_ptcld.png"
 image_title: "colorized_pointcloud"
 ---
-
-<!-- <img src="../images/outdoor_colorized_ptcld.png" alt="colorized_point_cloud_1" width="425"/>
-<img src="../images/indoor_colorized_ptcld.png" alt="colorized_point_cloud_1" width="425"/> -->

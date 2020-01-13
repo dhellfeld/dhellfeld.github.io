@@ -10,5 +10,3 @@ citation: '<b>D. Hellfeld</b>, T. H. Y. Joshi, M. S. Bandstra, R. J. Cooper, B. 
 image: "/images/apsl.png"
 image_title: "apsl"
 ---
-
-<!-- <img src="../images/apsl.png" alt="additive_point_source_localization" width="500"/> -->
